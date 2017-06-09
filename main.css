@@ -1,11 +1,19 @@
-body{
-  background-color: green;
+body
+{
+    background-color: green;
 }
-.theMessage{
-  height: 5em;
-  width: 10em;
-  background-color: black;
+.theMessage
+{
+    width: 10em;
+    height: 5em;
+
+    background-color: black;
 }
-.messageTwo{
-  background-color: gray;
+.messageTwo
+{
+    background-color: gray;
+}
+.messageThree
+{
+    background-color: white;
 }
